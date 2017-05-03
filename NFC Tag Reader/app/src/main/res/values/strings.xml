@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">"NFC Tag Reader "</string>
+    <string name="nfc_enabled">NFC disabled</string>
+    <string name="nfc_disabled">NFC disabled</string>
 </resources>
